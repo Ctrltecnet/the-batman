@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="estilo registro.css">
+    <link rel="shortcut icon" href="logo.jfif" type="image/x-icon">
+    <title>registro</title>
+</head>
+<body>
+    
+    <h1>registro</h1>
+
+    <hr>
+<nav>
+    <ul>
+    <li><a href="inicio.html">Inicio</a></li>
+    <li><a href="villanos.html">villanos</a></li>
+    <li><a href="aliados.html">bati-familia</a></li>
+    <li><a href="trajes.html">trajes</a></li>
+    <li><a href="peliculas.html">peliculas</a></l>
+    <li><a href="seires.html">registro</a></li>
+</ul>
+</nav>
+<br><br><br><br>
+<hr>
+
+<p>si te gusto el contenido de esta pagina, te ecomiendo llenar el formulario de abajo para recibir mas informacion de super heroes, villanos, antiheroes, etc</p>
+</body>
+</html>

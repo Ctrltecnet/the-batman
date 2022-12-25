@@ -1,0 +1,65 @@
+body{
+
+    background-color: rgb(23, 22, 22);
+
+}
+h1{
+/*
+    background-color: azure;
+    height: 300px;  fondo de color del titulo
+    width: 300px;*/
+
+    color: #fff;
+    font-size: 100px;
+    height: 100px;
+    width: 1585px;
+    /*width: 1585px;/*largo*/
+    
+}
+h2{
+
+    color: #fff;
+}
+p{
+    color: beige;
+}
+strong{
+
+    color: burlywood;
+}
+
+header {
+    background: rgba(0,0,0,0.7);
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+    align-content: center;
+  }
+  
+  nav {
+    float:left;
+  }
+  
+  nav ul {
+    list-style: none;
+    overflow: hidden; 
+  }
+  
+  nav ul li {
+    float: left;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  nav ul li a {
+    display: block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+  }
+  nav ul li:hover {
+    background: #eca023;
+  }
+
+  ul li{
+    color: #fff;
+  }
